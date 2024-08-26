@@ -1,0 +1,5 @@
+{
+    "dl": "https://raw.githubusercontent.com/togglebyte/pubreg/main/crates/{crate}/{version}.crate",
+    "api":null,
+    "auth-required":false
+}
